@@ -1,0 +1,123 @@
+Strategy 0 drew with strategy 0
+Strategy 0 beat strategy 1
+Strategy 0 drew with strategy 2
+Strategy 0 beat strategy 3
+Strategy 0 beat strategy 4
+Strategy 0 beat strategy 5
+Strategy 0 beat strategy 6
+Strategy 0 drew with strategy 7
+Strategy 0 beat strategy 8
+Strategy 0 beat strategy 9
+Strategy 1 lost to strategy 0
+Strategy 1 drew with strategy 1
+Strategy 1 lost to strategy 2
+Strategy 1 beat strategy 3
+Strategy 1 lost to strategy 4
+Strategy 1 lost to strategy 5
+Strategy 1 beat strategy 6
+Strategy 1 lost to strategy 7
+Strategy 1 beat strategy 8
+Strategy 1 lost to strategy 9
+Strategy 2 drew with strategy 0
+Strategy 2 beat strategy 1
+Strategy 2 drew with strategy 2
+Strategy 2 beat strategy 3
+Strategy 2 beat strategy 4
+Strategy 2 beat strategy 5
+Strategy 2 beat strategy 6
+Strategy 2 drew with strategy 7
+Strategy 2 beat strategy 8
+Strategy 2 beat strategy 9
+Strategy 3 lost to strategy 0
+Strategy 3 lost to strategy 1
+Strategy 3 lost to strategy 2
+Strategy 3 drew with strategy 3
+Strategy 3 lost to strategy 4
+Strategy 3 lost to strategy 5
+Strategy 3 lost to strategy 6
+Strategy 3 lost to strategy 7
+Strategy 3 beat strategy 8
+Strategy 3 lost to strategy 9
+Strategy 4 lost to strategy 0
+Strategy 4 beat strategy 1
+Strategy 4 lost to strategy 2
+Strategy 4 beat strategy 3
+Strategy 4 drew with strategy 4
+Strategy 4 lost to strategy 5
+Strategy 4 beat strategy 6
+Strategy 4 lost to strategy 7
+Strategy 4 beat strategy 8
+Strategy 4 beat strategy 9
+Strategy 5 lost to strategy 0
+Strategy 5 beat strategy 1
+Strategy 5 lost to strategy 2
+Strategy 5 beat strategy 3
+Strategy 5 beat strategy 4
+Strategy 5 drew with strategy 5
+Strategy 5 beat strategy 6
+Strategy 5 lost to strategy 7
+Strategy 5 beat strategy 8
+Strategy 5 beat strategy 9
+Strategy 6 lost to strategy 0
+Strategy 6 lost to strategy 1
+Strategy 6 lost to strategy 2
+Strategy 6 beat strategy 3
+Strategy 6 lost to strategy 4
+Strategy 6 lost to strategy 5
+Strategy 6 drew with strategy 6
+Strategy 6 lost to strategy 7
+Strategy 6 beat strategy 8
+Strategy 6 beat strategy 9
+Strategy 7 drew with strategy 0
+Strategy 7 beat strategy 1
+Strategy 7 drew with strategy 2
+Strategy 7 beat strategy 3
+Strategy 7 beat strategy 4
+Strategy 7 beat strategy 5
+Strategy 7 beat strategy 6
+Strategy 7 drew with strategy 7
+Strategy 7 beat strategy 8
+Strategy 7 beat strategy 9
+Strategy 8 lost to strategy 0
+Strategy 8 lost to strategy 1
+Strategy 8 lost to strategy 2
+Strategy 8 lost to strategy 3
+Strategy 8 lost to strategy 4
+Strategy 8 lost to strategy 5
+Strategy 8 lost to strategy 6
+Strategy 8 lost to strategy 7
+Strategy 8 drew with strategy 8
+Strategy 8 lost to strategy 9
+Strategy 9 lost to strategy 0
+Strategy 9 beat strategy 1
+Strategy 9 lost to strategy 2
+Strategy 9 beat strategy 3
+Strategy 9 lost to strategy 4
+Strategy 9 lost to strategy 5
+Strategy 9 lost to strategy 6
+Strategy 9 lost to strategy 7
+Strategy 9 beat strategy 8
+Strategy 9 drew with strategy 9
+800 528 800 516 616 504 524 800 0 564 
+869 533 872 542 588 557 487 858 132 534 
+800 500 800 500 484 524 516 800 0 540 
+864 592 881 543 605 590 663 869 156 573 
+860 563 852 531 580 591 507 872 136 544 
+867 485 868 480 584 589 506 858 124 561 
+851 613 858 563 560 547 554 886 146 570 
+800 580 800 564 584 536 620 800 0 520 
+1000 799 1000 724 778 811 745 1000 400 782 
+861 513 855 538 564 591 574 873 132 635 
+
+Strategy 0 beat 14 strategies
+Strategy 1 beat 6 strategies
+Strategy 2 beat 14 strategies
+Strategy 3 beat 2 strategies
+Strategy 4 beat 10 strategies
+Strategy 5 beat 12 strategies
+Strategy 6 beat 6 strategies
+Strategy 7 beat 14 strategies
+Strategy 8 beat 0 strategies
+Strategy 9 beat 6 strategies
+
+Strategy 0 is the best strategy

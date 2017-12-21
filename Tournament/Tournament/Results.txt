@@ -1,0 +1,23 @@
+400 796 1000 783 862 778 793 1000 400 821 
+152 528 875 539 572 549 499 857 122 546 
+0 532 800 456 512 536 520 800 0 516 
+128 602 877 554 606 576 655 867 142 560 
+124 582 854 559 530 616 461 876 152 552 
+146 522 856 553 585 517 558 869 116 573 
+106 568 862 565 574 557 505 882 172 577 
+0 588 800 560 572 564 528 800 0 532 
+400 725 1000 793 772 754 811 1000 400 766 
+148 483 872 559 577 570 581 868 106 551 
+
+Strategy 0 beat 0 strategies
+Strategy 1 beat 10 strategies
+Strategy 2 beat 16 strategies
+Strategy 3 beat 4 strategies
+Strategy 4 beat 10 strategies
+Strategy 5 beat 10 strategies
+Strategy 6 beat 10 strategies
+Strategy 7 beat 16 strategies
+Strategy 8 beat 0 strategies
+Strategy 9 beat 10 strategies
+
+Strategy 2 is the best strategy
