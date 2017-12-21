@@ -1,0 +1,389 @@
+
+Table of results of tournament when neither leader changes choice of spy
+
+502.5, 522.5, 501.5, 482, 461, 522, 508, 493.5, 528, 520.5, 
+504, 480.5, 523.5, 497, 469.5, 506.5, 492, 511.5, 517.5, 523.5, 
+511, 494, 485.5, 486, 481, 530, 503, 492, 521.5, 501, 
+502.5, 486, 495.5, 462, 519.5, 516, 515.5, 522, 527.5, 505.5, 
+474, 475.5, 454.5, 477.5, 462, 475, 490.5, 477.5, 481, 480, 
+463.5, 484, 490, 478, 464, 487, 510.5, 471, 487, 489, 
+481, 466, 460.5, 463, 494, 494.5, 518, 503, 512, 480, 
+484, 475, 479.5, 456.5, 477, 473.5, 517.5, 487, 489, 488.5, 
+471.5, 477.5, 476.5, 464.5, 476.5, 477.5, 487.5, 494, 512, 469, 
+491.5, 492.5, 505, 465, 492.5, 499, 518.5, 497.5, 502.5, 520.5, 
+
+
+Strategy combination 0 drew with strategy combination 0
+Strategy combination 0 beat strategy combination 1
+Strategy combination 0 lost to strategy combination 2
+Strategy combination 0 lost to strategy combination 3
+Strategy combination 0 lost to strategy combination 4
+Strategy combination 0 beat strategy combination 5
+Strategy combination 0 beat strategy combination 6
+Strategy combination 0 beat strategy combination 7
+Strategy combination 0 beat strategy combination 8
+Strategy combination 0 beat strategy combination 9
+Strategy combination 1 lost to strategy combination 0
+Strategy combination 1 drew with strategy combination 1
+Strategy combination 1 beat strategy combination 2
+Strategy combination 1 beat strategy combination 3
+Strategy combination 1 lost to strategy combination 4
+Strategy combination 1 beat strategy combination 5
+Strategy combination 1 beat strategy combination 6
+Strategy combination 1 beat strategy combination 7
+Strategy combination 1 beat strategy combination 8
+Strategy combination 1 beat strategy combination 9
+Strategy combination 2 beat strategy combination 0
+Strategy combination 2 lost to strategy combination 1
+Strategy combination 2 drew with strategy combination 2
+Strategy combination 2 lost to strategy combination 3
+Strategy combination 2 beat strategy combination 4
+Strategy combination 2 beat strategy combination 5
+Strategy combination 2 beat strategy combination 6
+Strategy combination 2 beat strategy combination 7
+Strategy combination 2 beat strategy combination 8
+Strategy combination 2 lost to strategy combination 9
+Strategy combination 3 beat strategy combination 0
+Strategy combination 3 lost to strategy combination 1
+Strategy combination 3 beat strategy combination 2
+Strategy combination 3 drew with strategy combination 3
+Strategy combination 3 beat strategy combination 4
+Strategy combination 3 beat strategy combination 5
+Strategy combination 3 beat strategy combination 6
+Strategy combination 3 beat strategy combination 7
+Strategy combination 3 beat strategy combination 8
+Strategy combination 3 beat strategy combination 9
+Strategy combination 4 beat strategy combination 0
+Strategy combination 4 beat strategy combination 1
+Strategy combination 4 lost to strategy combination 2
+Strategy combination 4 lost to strategy combination 3
+Strategy combination 4 drew with strategy combination 4
+Strategy combination 4 beat strategy combination 5
+Strategy combination 4 lost to strategy combination 6
+Strategy combination 4 beat strategy combination 7
+Strategy combination 4 beat strategy combination 8
+Strategy combination 4 lost to strategy combination 9
+Strategy combination 5 lost to strategy combination 0
+Strategy combination 5 lost to strategy combination 1
+Strategy combination 5 lost to strategy combination 2
+Strategy combination 5 lost to strategy combination 3
+Strategy combination 5 lost to strategy combination 4
+Strategy combination 5 drew with strategy combination 5
+Strategy combination 5 beat strategy combination 6
+Strategy combination 5 lost to strategy combination 7
+Strategy combination 5 beat strategy combination 8
+Strategy combination 5 lost to strategy combination 9
+Strategy combination 6 lost to strategy combination 0
+Strategy combination 6 lost to strategy combination 1
+Strategy combination 6 lost to strategy combination 2
+Strategy combination 6 lost to strategy combination 3
+Strategy combination 6 beat strategy combination 4
+Strategy combination 6 lost to strategy combination 5
+Strategy combination 6 drew with strategy combination 6
+Strategy combination 6 lost to strategy combination 7
+Strategy combination 6 beat strategy combination 8
+Strategy combination 6 lost to strategy combination 9
+Strategy combination 7 lost to strategy combination 0
+Strategy combination 7 lost to strategy combination 1
+Strategy combination 7 lost to strategy combination 2
+Strategy combination 7 lost to strategy combination 3
+Strategy combination 7 lost to strategy combination 4
+Strategy combination 7 beat strategy combination 5
+Strategy combination 7 beat strategy combination 6
+Strategy combination 7 drew with strategy combination 7
+Strategy combination 7 lost to strategy combination 8
+Strategy combination 7 lost to strategy combination 9
+Strategy combination 8 lost to strategy combination 0
+Strategy combination 8 lost to strategy combination 1
+Strategy combination 8 lost to strategy combination 2
+Strategy combination 8 lost to strategy combination 3
+Strategy combination 8 lost to strategy combination 4
+Strategy combination 8 lost to strategy combination 5
+Strategy combination 8 lost to strategy combination 6
+Strategy combination 8 beat strategy combination 7
+Strategy combination 8 drew with strategy combination 8
+Strategy combination 8 lost to strategy combination 9
+Strategy combination 9 lost to strategy combination 0
+Strategy combination 9 lost to strategy combination 1
+Strategy combination 9 beat strategy combination 2
+Strategy combination 9 lost to strategy combination 3
+Strategy combination 9 beat strategy combination 4
+Strategy combination 9 beat strategy combination 5
+Strategy combination 9 beat strategy combination 6
+Strategy combination 9 beat strategy combination 7
+Strategy combination 9 beat strategy combination 8
+Strategy combination 9 drew with strategy combination 9
+
+Strategy where prisoner 1 chose strategy 0Strategy where prisoner 2 chose strategy 1Strategy where prisoner 3 chose strategy 2Strategy where prisoner 4 chose strategy 3Strategy where prisoner 5 chose strategy 4 beat -858993454 strategy combinations
+Strategy where prisoner 1 chose strategy 1Strategy where prisoner 2 chose strategy 2Strategy where prisoner 3 chose strategy 3Strategy where prisoner 4 chose strategy 4Strategy where prisoner 5 chose strategy 5 beat -858993453 strategy combinations
+Strategy where prisoner 1 chose strategy 2Strategy where prisoner 2 chose strategy 3Strategy where prisoner 3 chose strategy 4Strategy where prisoner 4 chose strategy 5Strategy where prisoner 5 chose strategy 6 beat -858993454 strategy combinations
+Strategy where prisoner 1 chose strategy 3Strategy where prisoner 2 chose strategy 4Strategy where prisoner 3 chose strategy 5Strategy where prisoner 4 chose strategy 6Strategy where prisoner 5 chose strategy 7 beat -858993452 strategy combinations
+Strategy where prisoner 1 chose strategy 4Strategy where prisoner 2 chose strategy 5Strategy where prisoner 3 chose strategy 6Strategy where prisoner 4 chose strategy 7Strategy where prisoner 5 chose strategy 8 beat -858993455 strategy combinations
+Strategy where prisoner 1 chose strategy 5Strategy where prisoner 2 chose strategy 6Strategy where prisoner 3 chose strategy 7Strategy where prisoner 4 chose strategy 8Strategy where prisoner 5 chose strategy 9 beat -858993458 strategy combinations
+Strategy where prisoner 1 chose strategy 6Strategy where prisoner 2 chose strategy 7Strategy where prisoner 3 chose strategy 8Strategy where prisoner 4 chose strategy 9Strategy where prisoner 5 chose strategy 0 beat -858993458 strategy combinations
+Strategy where prisoner 1 chose strategy 7Strategy where prisoner 2 chose strategy 8Strategy where prisoner 3 chose strategy 9Strategy where prisoner 4 chose strategy 0Strategy where prisoner 5 chose strategy 1 beat -858993458 strategy combinations
+Strategy where prisoner 1 chose strategy 8Strategy where prisoner 2 chose strategy 9Strategy where prisoner 3 chose strategy 0Strategy where prisoner 4 chose strategy 1Strategy where prisoner 5 chose strategy 2 beat -858993459 strategy combinations
+Strategy where prisoner 1 chose strategy 9Strategy where prisoner 2 chose strategy 0Strategy where prisoner 3 chose strategy 1Strategy where prisoner 4 chose strategy 2Strategy where prisoner 5 chose strategy 3 beat -858993454 strategy combinations
+
+Strategy 3 is the best strategy
+
+Table of results of tournament when both leaders change choice of spy
+
+479, 497, 485, 467.5, 480, 509.5, 517, 500.5, 524, 510, 
+502, 489, 499.5, 479, 468, 482.5, 488, 494.5, 512.5, 513, 
+494.5, 485.5, 486.5, 474.5, 475.5, 505.5, 505, 487.5, 519.5, 501, 
+489.5, 492, 492.5, 460.5, 506.5, 495, 509.5, 511, 522.5, 508.5, 
+451, 446.5, 446.5, 450, 452.5, 463, 462.5, 471.5, 481, 466, 
+467, 464, 470.5, 459, 459, 478, 485.5, 470.5, 494.5, 473, 
+469.5, 460, 455.5, 446.5, 453, 467.5, 475, 494.5, 500.5, 482.5, 
+469.5, 462, 466, 450.5, 475.5, 464, 487.5, 480.5, 484, 472.5, 
+474.5, 467.5, 472.5, 470.5, 459.5, 475.5, 474.5, 482, 490.5, 467.5, 
+474.5, 490.5, 489, 466, 482, 497, 499, 507, 500.5, 497, 
+
+
+Strategy combination 0 beat strategy combination 0
+Strategy combination 0 beat strategy combination 1
+Strategy combination 0 beat strategy combination 2
+Strategy combination 0 lost to strategy combination 3
+Strategy combination 0 beat strategy combination 4
+Strategy combination 0 beat strategy combination 5
+Strategy combination 0 beat strategy combination 6
+Strategy combination 0 beat strategy combination 7
+Strategy combination 0 beat strategy combination 8
+Strategy combination 0 beat strategy combination 9
+Strategy combination 1 beat strategy combination 0
+Strategy combination 1 beat strategy combination 1
+Strategy combination 1 beat strategy combination 2
+Strategy combination 1 lost to strategy combination 3
+Strategy combination 1 beat strategy combination 4
+Strategy combination 1 beat strategy combination 5
+Strategy combination 1 beat strategy combination 6
+Strategy combination 1 beat strategy combination 7
+Strategy combination 1 beat strategy combination 8
+Strategy combination 1 beat strategy combination 9
+Strategy combination 2 beat strategy combination 0
+Strategy combination 2 lost to strategy combination 1
+Strategy combination 2 drew with strategy combination 2
+Strategy combination 2 beat strategy combination 3
+Strategy combination 2 beat strategy combination 4
+Strategy combination 2 beat strategy combination 5
+Strategy combination 2 beat strategy combination 6
+Strategy combination 2 beat strategy combination 7
+Strategy combination 2 beat strategy combination 8
+Strategy combination 2 beat strategy combination 9
+Strategy combination 3 beat strategy combination 0
+Strategy combination 3 beat strategy combination 1
+Strategy combination 3 beat strategy combination 2
+Strategy combination 3 beat strategy combination 3
+Strategy combination 3 beat strategy combination 4
+Strategy combination 3 beat strategy combination 5
+Strategy combination 3 beat strategy combination 6
+Strategy combination 3 beat strategy combination 7
+Strategy combination 3 beat strategy combination 8
+Strategy combination 3 beat strategy combination 9
+Strategy combination 4 lost to strategy combination 0
+Strategy combination 4 lost to strategy combination 1
+Strategy combination 4 lost to strategy combination 2
+Strategy combination 4 lost to strategy combination 3
+Strategy combination 4 beat strategy combination 4
+Strategy combination 4 beat strategy combination 5
+Strategy combination 4 beat strategy combination 6
+Strategy combination 4 beat strategy combination 7
+Strategy combination 4 beat strategy combination 8
+Strategy combination 4 beat strategy combination 9
+Strategy combination 5 lost to strategy combination 0
+Strategy combination 5 lost to strategy combination 1
+Strategy combination 5 lost to strategy combination 2
+Strategy combination 5 lost to strategy combination 3
+Strategy combination 5 beat strategy combination 4
+Strategy combination 5 beat strategy combination 5
+Strategy combination 5 beat strategy combination 6
+Strategy combination 5 beat strategy combination 7
+Strategy combination 5 beat strategy combination 8
+Strategy combination 5 lost to strategy combination 9
+Strategy combination 6 lost to strategy combination 0
+Strategy combination 6 lost to strategy combination 1
+Strategy combination 6 lost to strategy combination 2
+Strategy combination 6 lost to strategy combination 3
+Strategy combination 6 beat strategy combination 4
+Strategy combination 6 lost to strategy combination 5
+Strategy combination 6 beat strategy combination 6
+Strategy combination 6 beat strategy combination 7
+Strategy combination 6 beat strategy combination 8
+Strategy combination 6 lost to strategy combination 9
+Strategy combination 7 lost to strategy combination 0
+Strategy combination 7 lost to strategy combination 1
+Strategy combination 7 lost to strategy combination 2
+Strategy combination 7 lost to strategy combination 3
+Strategy combination 7 beat strategy combination 4
+Strategy combination 7 beat strategy combination 5
+Strategy combination 7 beat strategy combination 6
+Strategy combination 7 beat strategy combination 7
+Strategy combination 7 beat strategy combination 8
+Strategy combination 7 lost to strategy combination 9
+Strategy combination 8 lost to strategy combination 0
+Strategy combination 8 lost to strategy combination 1
+Strategy combination 8 lost to strategy combination 2
+Strategy combination 8 lost to strategy combination 3
+Strategy combination 8 beat strategy combination 4
+Strategy combination 8 lost to strategy combination 5
+Strategy combination 8 lost to strategy combination 6
+Strategy combination 8 beat strategy combination 7
+Strategy combination 8 beat strategy combination 8
+Strategy combination 8 lost to strategy combination 9
+Strategy combination 9 lost to strategy combination 0
+Strategy combination 9 lost to strategy combination 1
+Strategy combination 9 lost to strategy combination 2
+Strategy combination 9 lost to strategy combination 3
+Strategy combination 9 beat strategy combination 4
+Strategy combination 9 beat strategy combination 5
+Strategy combination 9 beat strategy combination 6
+Strategy combination 9 beat strategy combination 7
+Strategy combination 9 beat strategy combination 8
+Strategy combination 9 beat strategy combination 9
+
+Strategy where prisoner 1 chose strategy 0Strategy where prisoner 2 chose strategy 1Strategy where prisoner 3 chose strategy 2Strategy where prisoner 4 chose strategy 3Strategy where prisoner 5 chose strategy 4 beat -858993454 strategy combinations
+Strategy where prisoner 1 chose strategy 1Strategy where prisoner 2 chose strategy 2Strategy where prisoner 3 chose strategy 3Strategy where prisoner 4 chose strategy 4Strategy where prisoner 5 chose strategy 5 beat -858993452 strategy combinations
+Strategy where prisoner 1 chose strategy 2Strategy where prisoner 2 chose strategy 3Strategy where prisoner 3 chose strategy 4Strategy where prisoner 4 chose strategy 5Strategy where prisoner 5 chose strategy 6 beat -858993453 strategy combinations
+Strategy where prisoner 1 chose strategy 3Strategy where prisoner 2 chose strategy 4Strategy where prisoner 3 chose strategy 5Strategy where prisoner 4 chose strategy 6Strategy where prisoner 5 chose strategy 7 beat -858993451 strategy combinations
+Strategy where prisoner 1 chose strategy 4Strategy where prisoner 2 chose strategy 5Strategy where prisoner 3 chose strategy 6Strategy where prisoner 4 chose strategy 7Strategy where prisoner 5 chose strategy 8 beat -858993457 strategy combinations
+Strategy where prisoner 1 chose strategy 5Strategy where prisoner 2 chose strategy 6Strategy where prisoner 3 chose strategy 7Strategy where prisoner 4 chose strategy 8Strategy where prisoner 5 chose strategy 9 beat -858993457 strategy combinations
+Strategy where prisoner 1 chose strategy 6Strategy where prisoner 2 chose strategy 7Strategy where prisoner 3 chose strategy 8Strategy where prisoner 4 chose strategy 9Strategy where prisoner 5 chose strategy 0 beat -858993458 strategy combinations
+Strategy where prisoner 1 chose strategy 7Strategy where prisoner 2 chose strategy 8Strategy where prisoner 3 chose strategy 9Strategy where prisoner 4 chose strategy 0Strategy where prisoner 5 chose strategy 1 beat -858993458 strategy combinations
+Strategy where prisoner 1 chose strategy 8Strategy where prisoner 2 chose strategy 9Strategy where prisoner 3 chose strategy 0Strategy where prisoner 4 chose strategy 1Strategy where prisoner 5 chose strategy 2 beat -858993460 strategy combinations
+Strategy where prisoner 1 chose strategy 9Strategy where prisoner 2 chose strategy 0Strategy where prisoner 3 chose strategy 1Strategy where prisoner 4 chose strategy 2Strategy where prisoner 5 chose strategy 3 beat -858993455 strategy combinations
+
+Strategy 3 is the best strategy
+
+Table of results of tournament when leader 1 changes choice of spy but leader 2 does not
+
+498, 510, 527, 478, 515, 515.5, 540, 511, 540, 513.5, 
+522.5, 491.5, 504.5, 478, 478, 492.5, 506.5, 514.5, 524.5, 534, 
+498, 493.5, 486, 493, 477.5, 525.5, 507, 500, 524.5, 505.5, 
+495.5, 513, 499.5, 467.5, 519, 492, 517.5, 526, 530.5, 510.5, 
+462, 454.5, 470.5, 465.5, 455, 472, 462.5, 488.5, 488, 484.5, 
+474, 470, 486, 477, 478, 479, 482, 486, 508.5, 473, 
+488, 468, 463, 465.5, 465, 482.5, 477, 501.5, 510, 492, 
+472, 474, 473.5, 450.5, 484, 487, 510, 496, 500, 488.5, 
+480, 483, 483, 479.5, 483.5, 481, 488, 502.5, 503.5, 473, 
+475.5, 501, 497.5, 478.5, 491, 502.5, 508.5, 527, 502, 499, 
+
+
+Strategy combination 0 drew with strategy combination 0
+Strategy combination 0 lost to strategy combination 1
+Strategy combination 0 beat strategy combination 2
+Strategy combination 0 lost to strategy combination 3
+Strategy combination 0 beat strategy combination 4
+Strategy combination 0 beat strategy combination 5
+Strategy combination 0 beat strategy combination 6
+Strategy combination 0 beat strategy combination 7
+Strategy combination 0 beat strategy combination 8
+Strategy combination 0 beat strategy combination 9
+Strategy combination 1 beat strategy combination 0
+Strategy combination 1 drew with strategy combination 1
+Strategy combination 1 beat strategy combination 2
+Strategy combination 1 lost to strategy combination 3
+Strategy combination 1 beat strategy combination 4
+Strategy combination 1 beat strategy combination 5
+Strategy combination 1 beat strategy combination 6
+Strategy combination 1 beat strategy combination 7
+Strategy combination 1 beat strategy combination 8
+Strategy combination 1 beat strategy combination 9
+Strategy combination 2 lost to strategy combination 0
+Strategy combination 2 lost to strategy combination 1
+Strategy combination 2 drew with strategy combination 2
+Strategy combination 2 lost to strategy combination 3
+Strategy combination 2 beat strategy combination 4
+Strategy combination 2 beat strategy combination 5
+Strategy combination 2 beat strategy combination 6
+Strategy combination 2 beat strategy combination 7
+Strategy combination 2 beat strategy combination 8
+Strategy combination 2 beat strategy combination 9
+Strategy combination 3 beat strategy combination 0
+Strategy combination 3 beat strategy combination 1
+Strategy combination 3 beat strategy combination 2
+Strategy combination 3 drew with strategy combination 3
+Strategy combination 3 beat strategy combination 4
+Strategy combination 3 beat strategy combination 5
+Strategy combination 3 beat strategy combination 6
+Strategy combination 3 beat strategy combination 7
+Strategy combination 3 beat strategy combination 8
+Strategy combination 3 beat strategy combination 9
+Strategy combination 4 lost to strategy combination 0
+Strategy combination 4 lost to strategy combination 1
+Strategy combination 4 lost to strategy combination 2
+Strategy combination 4 lost to strategy combination 3
+Strategy combination 4 drew with strategy combination 4
+Strategy combination 4 lost to strategy combination 5
+Strategy combination 4 lost to strategy combination 6
+Strategy combination 4 beat strategy combination 7
+Strategy combination 4 beat strategy combination 8
+Strategy combination 4 lost to strategy combination 9
+Strategy combination 5 lost to strategy combination 0
+Strategy combination 5 lost to strategy combination 1
+Strategy combination 5 lost to strategy combination 2
+Strategy combination 5 lost to strategy combination 3
+Strategy combination 5 beat strategy combination 4
+Strategy combination 5 drew with strategy combination 5
+Strategy combination 5 lost to strategy combination 6
+Strategy combination 5 lost to strategy combination 7
+Strategy combination 5 beat strategy combination 8
+Strategy combination 5 lost to strategy combination 9
+Strategy combination 6 lost to strategy combination 0
+Strategy combination 6 lost to strategy combination 1
+Strategy combination 6 lost to strategy combination 2
+Strategy combination 6 lost to strategy combination 3
+Strategy combination 6 beat strategy combination 4
+Strategy combination 6 beat strategy combination 5
+Strategy combination 6 drew with strategy combination 6
+Strategy combination 6 lost to strategy combination 7
+Strategy combination 6 beat strategy combination 8
+Strategy combination 6 lost to strategy combination 9
+Strategy combination 7 lost to strategy combination 0
+Strategy combination 7 lost to strategy combination 1
+Strategy combination 7 lost to strategy combination 2
+Strategy combination 7 lost to strategy combination 3
+Strategy combination 7 lost to strategy combination 4
+Strategy combination 7 beat strategy combination 5
+Strategy combination 7 beat strategy combination 6
+Strategy combination 7 drew with strategy combination 7
+Strategy combination 7 lost to strategy combination 8
+Strategy combination 7 lost to strategy combination 9
+Strategy combination 8 lost to strategy combination 0
+Strategy combination 8 lost to strategy combination 1
+Strategy combination 8 lost to strategy combination 2
+Strategy combination 8 lost to strategy combination 3
+Strategy combination 8 lost to strategy combination 4
+Strategy combination 8 lost to strategy combination 5
+Strategy combination 8 lost to strategy combination 6
+Strategy combination 8 beat strategy combination 7
+Strategy combination 8 drew with strategy combination 8
+Strategy combination 8 lost to strategy combination 9
+Strategy combination 9 lost to strategy combination 0
+Strategy combination 9 lost to strategy combination 1
+Strategy combination 9 lost to strategy combination 2
+Strategy combination 9 lost to strategy combination 3
+Strategy combination 9 beat strategy combination 4
+Strategy combination 9 beat strategy combination 5
+Strategy combination 9 beat strategy combination 6
+Strategy combination 9 beat strategy combination 7
+Strategy combination 9 beat strategy combination 8
+Strategy combination 9 drew with strategy combination 9
+
+Strategy where prisoner 1 chose strategy 0Strategy where prisoner 2 chose strategy 1Strategy where prisoner 3 chose strategy 2Strategy where prisoner 4 chose strategy 3Strategy where prisoner 5 chose strategy 4 beat -858993454 strategy combinations
+Strategy where prisoner 1 chose strategy 1Strategy where prisoner 2 chose strategy 2Strategy where prisoner 3 chose strategy 3Strategy where prisoner 4 chose strategy 4Strategy where prisoner 5 chose strategy 5 beat -858993453 strategy combinations
+Strategy where prisoner 1 chose strategy 2Strategy where prisoner 2 chose strategy 3Strategy where prisoner 3 chose strategy 4Strategy where prisoner 4 chose strategy 5Strategy where prisoner 5 chose strategy 6 beat -858993454 strategy combinations
+Strategy where prisoner 1 chose strategy 3Strategy where prisoner 2 chose strategy 4Strategy where prisoner 3 chose strategy 5Strategy where prisoner 4 chose strategy 6Strategy where prisoner 5 chose strategy 7 beat -858993452 strategy combinations
+Strategy where prisoner 1 chose strategy 4Strategy where prisoner 2 chose strategy 5Strategy where prisoner 3 chose strategy 6Strategy where prisoner 4 chose strategy 7Strategy where prisoner 5 chose strategy 8 beat -858993455 strategy combinations
+Strategy where prisoner 1 chose strategy 5Strategy where prisoner 2 chose strategy 6Strategy where prisoner 3 chose strategy 7Strategy where prisoner 4 chose strategy 8Strategy where prisoner 5 chose strategy 9 beat -858993458 strategy combinations
+Strategy where prisoner 1 chose strategy 6Strategy where prisoner 2 chose strategy 7Strategy where prisoner 3 chose strategy 8Strategy where prisoner 4 chose strategy 9Strategy where prisoner 5 chose strategy 0 beat -858993458 strategy combinations
+Strategy where prisoner 1 chose strategy 7Strategy where prisoner 2 chose strategy 8Strategy where prisoner 3 chose strategy 9Strategy where prisoner 4 chose strategy 0Strategy where prisoner 5 chose strategy 1 beat -858993458 strategy combinations
+Strategy where prisoner 1 chose strategy 8Strategy where prisoner 2 chose strategy 9Strategy where prisoner 3 chose strategy 0Strategy where prisoner 4 chose strategy 1Strategy where prisoner 5 chose strategy 2 beat -858993459 strategy combinations
+Strategy where prisoner 1 chose strategy 9Strategy where prisoner 2 chose strategy 0Strategy where prisoner 3 chose strategy 1Strategy where prisoner 4 chose strategy 2Strategy where prisoner 5 chose strategy 3 beat -858993454 strategy combinations
+
+Strategy 3 is the best strategy
+
+
+Average score (against leader who doesn't change choice) when leader doesn't change choice is 491.86
+Average score (against leader who doesn't change choice) when leader changes choice is 492.8
+Thus optimal solution is when leader doesn't change choice

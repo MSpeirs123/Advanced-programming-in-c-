@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\temp\visual studio 2017\projects\advanced programming in c++ coursework 2\gang tournamement\gang tournamement\source.cpp(96): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Gang Tournamement.vcxproj -> C:\temp\Visual Studio 2017\Projects\Advanced programming in c++ coursework 2\Gang Tournamement\Debug\Gang Tournamement.exe
+  Gang Tournamement.vcxproj -> C:\temp\Visual Studio 2017\Projects\Advanced programming in c++ coursework 2\Gang Tournamement\Debug\Gang Tournamement.pdb (Partial PDB)
